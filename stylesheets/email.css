@@ -124,15 +124,16 @@ table.head-wrap {
 
 }
 
-.header.container table td.logo {
-    padding: 0px;
-    /*background-color: #3B5998;*/
+/*.header.container table td.logo {*/
 
-}
+
+
+/*}*/
 .header.container table td.label {
     padding: 0px;
     padding-bottom: -10px;
-    padding-left:0px;
+    padding-left: 0px;
+
 
 }
 
@@ -140,7 +141,7 @@ table.head-wrap {
     max-width: 100px;
     align: right;
     position: absolute;
-    margin-left: 20%;
+    margin-left: 250px;
     margin-top: -30px;
 }
 
@@ -185,7 +186,7 @@ table.footer-wrap {
 }
 
 .social-btn-table {
-    padding: 10px 0px 0px 19px;
+    padding: 10px 0px 0px 0px;
 }
 
 
@@ -446,8 +447,6 @@ ul.sidebar li a h1,ul.sidebar li a h2,ul.sidebar li a h3,ul.sidebar li a h4,ul.s
 
     .footer-address {
         font-size: 19px;
-
-
     }
 
     .banner-image {
@@ -458,6 +457,7 @@ ul.sidebar li a h1,ul.sidebar li a h2,ul.sidebar li a h3,ul.sidebar li a h4,ul.s
     
     .logo {
         max-width: 70px;
+        margin-left: 75px;
         padding-top: 10px;
     }
 
